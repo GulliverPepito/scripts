@@ -1,4 +1,4 @@
-l10n-ar-scripts
+scripts
 ===============
 
 Conjunto de Scripts que facilitan la administración de la localización.
